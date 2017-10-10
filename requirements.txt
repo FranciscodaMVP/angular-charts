@@ -1,0 +1,12 @@
+Create a chart component using the Chart.js library.
+
+The component requirements are:
+
+1.	Reference a data object.
+2.	Selecting chart type.
+3.	Customizing size (width/height)
+4.	Customizing title.
+
+Resources:
+https://angularjs.org/
+http://www.chartjs.org/
